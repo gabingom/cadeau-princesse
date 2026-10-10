@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: cadeau-princesse
+    runtime: static
+    staticPublishPath: .
